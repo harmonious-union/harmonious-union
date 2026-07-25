@@ -1,0 +1,16 @@
+{
+  "name": "@harmonious-union/harmonious-union",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "The package namespace for the Harmonious Union agentic operating system and its independently deployable services.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmonious-union/harmonious-union.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}
